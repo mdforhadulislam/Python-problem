@@ -6,5 +6,3 @@ elif  not user_number%2==0 or user_number==0:
     print(f"{user_number} is odd number")
 else:
     print("Nothing")
-
-
