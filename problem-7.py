@@ -5,3 +5,4 @@ def string_len(string):
     print(num)
 
 string_len("length")
+

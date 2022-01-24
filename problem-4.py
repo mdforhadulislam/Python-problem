@@ -13,3 +13,4 @@ elif user_symbol_number=='*' and len(user_symbol_number)==1:
 else:
     print("Nothing")
 
+

@@ -5,3 +5,4 @@ def print_namta(namata_num):
         print( f'{namata_num} X {i} = {value}')
 
 print_namta(user_number)
+
