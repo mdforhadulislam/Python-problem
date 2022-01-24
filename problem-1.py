@@ -6,3 +6,5 @@ elif user_Number<=0:
     print(f"{user_Number} is negetive number")
 else:
     print(f"{user_Number} is nothing")
+
+    
