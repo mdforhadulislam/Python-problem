@@ -1,7 +1,5 @@
 def string_len(string):
-    num=0
-    for i in string:
-        num+=1
+    num = sum(1 for _ in string)
     print(num)
 
 string_len("length")
